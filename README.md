@@ -11,3 +11,8 @@ Bingo game to play with friends and family
 - [] Call Bingo!
 - [] Pause game to check the Bingo!
 
+## Assets
+
+### Bingo card
+
+![Bingo Card](/assets/bingocard.jfif)
